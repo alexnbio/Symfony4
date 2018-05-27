@@ -8,6 +8,6 @@
 /nbproject/private/
 
 ### eclipse IDE ###
-/.buildpath
-/.settings
-/.project
+.buildpath
+.project
+.settings/
